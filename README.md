@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">  An Amazing Project 
   <img src="https://github.com/cds-hooks/docs/raw/master/logo.png">
 </p>
 
